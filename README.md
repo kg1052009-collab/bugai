@@ -1,0 +1,2 @@
+# bugai
+Interactive voice asistant
